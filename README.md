@@ -24,6 +24,6 @@ My portfolio project is a showcase of my skills and experience in web developmen
 6. The contact form uses email.js to send me all the entered details via the attached mail.
 
 ## Contact
-E-mail: savitraj81597@gmail.com<br>
-Linkedin: www.linkedin.com/in/savit-raj<br>
-Webpage: https://savit-raj.github.io/Portfolio/<br>
+E-mail: shivanshsinghaps@gmail.com<br>
+Linkedin: www.linkedin.com/in/shivansh-singh<br>
+Webpage: https://singhshivansh63.github.io/Portfolio/<br>
